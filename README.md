@@ -21,7 +21,7 @@ Before getting into B.Tech, I completed a **3-year Diploma in Electronics and Co
 ### 🚀 Projects
 Here are some of the projects I've built while practicing and sharpening my frontend skills:
 - **[Counter App](https://github.com/aiyazanwar/Counter-app):** A clean and interactive counter application built with HTML, CSS, and JavaScript to practice DOM manipulation.
-- **Color Changer:** A simple web tool to dynamically change background colors using JavaScript event listeners.
+
 
 ---
 
